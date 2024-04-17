@@ -1,0 +1,210 @@
+
+
+.wd-popup.wd-promo-popup{
+	background-color:#111111;
+	background-image: none;
+	background-repeat:no-repeat;
+	background-size:contain;
+	background-position:left center;
+}
+
+.page-title-default{
+	background-color:#0a0a0a;
+	background-image: none;
+	background-size:cover;
+	background-position:center center;
+}
+
+.footer-container{
+	background-color:#000;
+	background-image: none;
+}
+
+:root{
+--wd-text-font:"Raleway", Arial, Helvetica, sans-serif;
+--wd-text-font-weight:400;
+--wd-text-color:rgb(255,255,255);
+--wd-text-font-size:16px;
+}
+:root{
+--wd-title-font:"DrukTextWideTT", Arial, Helvetica, sans-serif;
+--wd-title-font-weight:500;
+--wd-title-color:#242424;
+}
+:root{
+--wd-entities-title-font:"Raleway", Arial, Helvetica, sans-serif;
+--wd-entities-title-font-weight:500;
+--wd-entities-title-color:rgb(255,255,255);
+--wd-entities-title-color-hover:rgb(51 51 51 / 65%);
+}
+:root{
+--wd-alternative-font:"Raleway", Arial, Helvetica, sans-serif;
+}
+:root{
+--wd-widget-title-font:"DrukTextWideTT", Arial, Helvetica, sans-serif;
+--wd-widget-title-font-weight:500;
+--wd-widget-title-transform:uppercase;
+--wd-widget-title-color:rgb(255,255,255);
+--wd-widget-title-font-size:16px;
+}
+:root{
+--wd-header-el-font:"Raleway", Arial, Helvetica, sans-serif;
+--wd-header-el-font-weight:400;
+--wd-header-el-transform:none;
+--wd-header-el-font-size:16px;
+}
+:root{
+--wd-primary-color:rgb(60,60,250);
+}
+:root{
+--wd-alternative-color:rgb(26,189,250);
+}
+:root{
+--wd-link-color:#333333;
+--wd-link-color-hover:#242424;
+}
+.page .main-page-wrapper{
+	background-color:#000;
+	background-image: none;
+}
+
+.woodmart-archive-shop .main-page-wrapper{
+	background-color:rgb(26,36,62);
+	background-image: none;
+}
+
+.single-product .main-page-wrapper{
+	background-color:rgb(26,36,62);
+	background-image: none;
+}
+
+.woodmart-archive-blog .main-page-wrapper{
+	background-color:rgb(26,36,62);
+	background-image: none;
+}
+
+.single-post .main-page-wrapper{
+	background-color:rgb(26,36,62);
+	background-image: none;
+}
+
+.woodmart-archive-portfolio .main-page-wrapper{
+	background-color:rgb(26,36,62);
+	background-image: none;
+}
+
+.single-portfolio .main-page-wrapper{
+	background-color:rgb(26,36,62);
+	background-image: none;
+}
+
+:root{
+--btn-default-font-family:"Raleway", Arial, Helvetica, sans-serif;
+--btn-default-font-weight:400;
+--btn-default-transform:none;
+}
+:root{
+--btn-default-bgcolor:rgb(75,83,106);
+}
+:root{
+--btn-default-bgcolor-hover:rgb(60,60,250);
+}
+:root{
+--btn-default-color:rgb(75,83,106);
+}
+:root{
+--btn-default-color-hover:rgb(60,60,250);
+}
+:root{
+--btn-accented-bgcolor:rgb(75,83,106);
+}
+:root{
+--btn-accented-bgcolor-hover:rgb(60,60,250);
+}
+:root{
+--btn-accented-color:rgb(75,83,106);
+}
+:root{
+--btn-accented-color-hover:rgb(60,60,250);
+}
+:root{
+--notices-success-bg:#459647;
+}
+:root{
+--notices-success-color:#fff;
+}
+:root{
+--notices-warning-bg:#E0B252;
+}
+:root{
+--notices-warning-color:#fff;
+}
+	:root{
+					
+			
+							--wd-form-brd-radius: 0px;
+					
+					--wd-form-brd-width: 2px;
+		
+		
+		
+		
+		
+					
+			
+							--btn-default-brd-radius: 35px;
+				--btn-default-box-shadow: none;
+				--btn-default-box-shadow-hover: none;
+			
+					
+					
+			
+							--btn-accented-brd-radius: 35px;
+				--btn-accented-box-shadow: none;
+				--btn-accented-box-shadow-hover: none;
+			
+					
+							
+					--wd-brd-radius: 0px;
+			}
+
+	
+	
+			@media (min-width: 1025px) {
+			.whb-boxed:not(.whb-sticked):not(.whb-full-width) .whb-main-header {
+				max-width: 1370px;
+			}
+		}
+
+		.container {
+			max-width: 1400px;
+		}
+
+		:root{
+			--wd-container-w: 1400px;
+		}
+	
+			@media (min-width: 1417px) {
+			.platform-Windows .wd-section-stretch > .elementor-container {
+				margin-left: auto;
+				margin-right: auto;
+			}
+		}
+		@media (min-width: 1400px) {
+			html:not(.platform-Windows) .wd-section-stretch > .elementor-container {
+				margin-left: auto;
+				margin-right: auto;
+			}
+		}
+	
+			div.wd-popup.popup-quick-view {
+			max-width: 920px;
+		}
+	
+	
+	
+	
+			.woodmart-woocommerce-layered-nav .wd-scroll-content {
+			max-height: 223px;
+		}
+	
