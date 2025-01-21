@@ -26,7 +26,7 @@
   //Инициализация виджета. Все параметры обязательные.
   const checkout = new window.YooMoneyCheckoutWidget({
       confirmation_token: new URL(location.href).searchParams.get('id'), //Токен, который перед проведением оплаты нужно получить от ЮKassa
-      return_url: 'https://example.com/', //Ссылка на страницу завершения оплаты, это может быть любая ваша страница
+      return_url: 'https://vpn-gin.com/payments/yookassa/result.html', //Ссылка на страницу завершения оплаты, это может быть любая ваша страница
 
       //При необходимости можно изменить цвета виджета, подробные настройки см. в документации
        //customization: {
