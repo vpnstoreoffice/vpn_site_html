@@ -5,7 +5,7 @@
    "price": 0,
    "description": "Идеален для тех, кто хочет попробовать наши услуги перед тем, как принять решение о долгосрочной подписке.",
    "duration": "5 дней",
-   "link": "https://t.me/vpn_gin_bot?start=trial",
+   "link": "https://t.me/vpn_gin_bot?start=HM_vpngin_top_trial",
    "access": [
     "tiktok",
     "youtube",
@@ -17,7 +17,7 @@
    "price": 200,
    "description": "Отличное решение для тех, кто временно находится за границей, но хочет оставаться на связи с привычными российскими сервисами. Доступ за 200 рублей!",
    "duration": "1 месяц",
-   "link": "https://t.me/vpn_gin_bot?start",
+   "link": "https://t.me/vpn_gin_bot?start=HM_vpngin_top_ru",
    "access": [
     "gosuslugi",
     "kinopoisk",
@@ -32,7 +32,7 @@
    "price": 145,
    "description": "Откройте мир свободного интернета в Нидерландах. Скорости хватит, чтобы смотреть YouTube в 1080p или без проблем листать соцсети.",
    "duration": "1 месяц",
-   "link": "https://t.me/vpn_gin_bot?start",
+   "link": "https://t.me/vpn_gin_bot?start=HM_vpngin_top_nl",
    "access": [
     "tiktok",
     "youtube",
@@ -44,7 +44,7 @@
    "price": 1099,
    "description": "Экономия и стабильность! Идеальный вариант для долгосрочного использования — только 1099 рублей за год безлимитного доступа.",
    "duration": "12 месяцев",
-   "link": "https://t.me/vpn_gin_bot?start",
+   "link": "https://t.me/vpn_gin_bot?start=HM_vpngin_top_nl_year",
    "access": [
     "tiktok",
     "youtube",
@@ -61,7 +61,7 @@
      "price": 145,
      "description": "Стабильный и быстрый VPN, чтобы оставаться в сети без ограничений. Всего за 145 рублей.",
      "duration": "1 месяц",
-     "link": "https://t.me/vpn_gin_bot?start",
+     "link": "https://t.me/vpn_gin_bot?start=HM_vpngin_nl_1m",
      "access": [
       "tiktok",
       "youtube",
@@ -73,7 +73,7 @@
      "price": 350,
      "description": "Для тех, кто ценит качество: смотрите видео в 4K и наслаждайтесь идеальной картинкой.",
      "duration": "1 месяц",
-     "link": "https://t.me/vpn_gin_bot?start",
+     "link": "https://t.me/vpn_gin_bot?start=HM_vpngin_nl_1my",
      "access": [
       "tiktok",
       "youtube",
@@ -87,7 +87,7 @@
      "discount": 10,
      "description": "Возьмите на три месяца — и сэкономьте 10%. Скорости достаточно для комфортного использования.",
      "duration": "3 месяца",
-     "link": "https://t.me/vpn_gin_bot?start",
+     "link": "https://t.me/vpn_gin_bot?start=HM_vpngin_nl_3m",
      "access": [
       "tiktok",
       "youtube",
@@ -100,7 +100,7 @@
      "discount": 15,
      "description": "Полгода без забот! Подходит для путешествий и удалённой работы. Экономия — 15%.",
      "duration": "6 месяцев",
-     "link": "https://t.me/vpn_gin_bot?start",
+     "link": "https://t.me/vpn_gin_bot?start=HM_vpngin_nl_6m",
      "access": [
       "tiktok",
       "youtube",
@@ -113,7 +113,7 @@
      "discount": 37,
      "description": "Забудьте о переплатах и получите безлимитный VPN на год с выгодой 37%.",
      "duration": "12 месяцев",
-     "link": "https://t.me/vpn_gin_bot?start",
+     "link": "https://t.me/vpn_gin_bot?start=HM_vpngin_top_nl_12m",
      "access": [
       "tiktok",
       "youtube",
@@ -126,7 +126,7 @@
      "discount": 50,
      "description": "Наслаждайтесь годом качественного интернета и 4K-контента. Экономьте 50%!",
      "duration": "12 месяцев",
-     "link": "https://t.me/vpn_gin_bot?start",
+     "link": "https://t.me/vpn_gin_bot?start=HM_vpngin_top_nl_12my",
      "access": [
       "tiktok",
       "youtube",
@@ -144,7 +144,7 @@
      "price": 160,
      "description": "Быстрый и стабильный VPN для Швеции. Подходит для стриминга и работы.",
      "duration": "1 месяц",
-     "link": "https://t.me/vpn_gin_bot?start",
+     "link": "https://t.me/vpn_gin_bot?start=HM_vpngin_se_1m",
      "access": [
       "tiktok",
       "youtube",
@@ -156,7 +156,7 @@
      "price": 350,
      "description": "Качество на высоте — VPN специально для 4K-контента.",
      "duration": "1 месяц",
-     "link": "https://t.me/vpn_gin_bot?start",
+     "link": "https://t.me/vpn_gin_bot?start=HM_vpngin_se_1my",
      "access": [
       "tiktok",
       "youtube",
@@ -170,7 +170,7 @@
      "discount": 10,
      "description": "Три месяца свободы интернета с выгодой 10%!",
      "duration": "3 месяца",
-     "link": "https://t.me/vpn_gin_bot?start",
+     "link": "https://t.me/vpn_gin_bot?start=HM_vpngin_se_3m",
      "access": [
       "tiktok",
       "youtube",
@@ -183,7 +183,7 @@
      "discount": 15,
      "description": "Полгода стабильной скорости. Экономия 15% по сравнению с помесячной оплатой.",
      "duration": "6 месяцев",
-     "link": "https://t.me/vpn_gin_bot?start",
+     "link": "https://t.me/vpn_gin_bot?start=HM_vpngin_se_6m",
      "access": [
       "tiktok",
       "youtube",
@@ -196,7 +196,7 @@
      "discount": 37,
      "description": "Годовой VPN с большой выгодой 37%! Больше никаких ограничений.",
      "duration": "12 месяцев",
-     "link": "https://t.me/vpn_gin_bot?start",
+     "link": "https://t.me/vpn_gin_bot?start=HM_vpngin_se_12m",
      "access": [
       "tiktok",
       "youtube",
@@ -213,7 +213,7 @@
      "price": 145,
      "description": "Быстрый и стабильный VPN для США. Подходит для доступа к сервисам США.",
      "duration": "1 месяц",
-     "link": "https://t.me/vpn_gin_bot?start",
+     "link": "https://t.me/vpn_gin_bot?start=HM_vpngin_usa_1m",
      "access": [
       "tiktok",
       "youtube",
@@ -230,7 +230,7 @@
      "price": 100,
      "description": "Идеально для коротких поездок. Лёгкий доступ к сервисам РФ всего за 100 рублей.",
      "duration": "10 дней",
-     "link": "https://t.me/vpn_gin_bot?start",
+     "link": "https://t.me/vpn_gin_bot?start=HM_vpngin_ru_10d",
      "access": [
       "gosuslugi",
       "kinopoisk",
@@ -245,7 +245,7 @@
      "price": 200,
      "description": "Постоянный доступ к российским сайтам и приложениям. Всего 200 рублей.",
      "duration": "1 месяц",
-     "link": "https://t.me/vpn_gin_bot?start",
+     "link": "https://t.me/vpn_gin_bot?start=HM_vpngin_ru_1m",
      "access": [
       "gosuslugi",
       "kinopoisk",
@@ -260,7 +260,7 @@
      "price": 1200,
      "description": "Годовое решение для тех, кто надолго уехал за границу. Экономия при покупке пакета — стабильный доступ за 1200 рублей.",
      "duration": "12 месяцев",
-     "link": "https://t.me/vpn_gin_bot?start",
+     "link": "https://t.me/vpn_gin_bot?start=HM_vpngin_ru_12m",
      "access": [
       "gosuslugi",
       "kinopoisk",
