@@ -232,6 +232,42 @@
     }
    ]
   },
+    {
+   "name": "kz Казахстан kz",
+   "id": "kz",
+   "tariffs": [
+    {
+     "name": "1 месяц",
+     "price": 145,
+     "description": "Быстрый и стабильный VPN в Казахстане.",
+     "duration": "1 месяц",
+     "link": "https://t.me/vpn_gin_bot?start=HM_a_kz_1m",
+     "access": [
+      "tiktok",
+      "youtube",
+      "instagram"
+     ]
+    }
+   ]
+  },
+    {
+   "name": "fl Финляндия fl",
+   "id": "fl",
+   "tariffs": [
+    {
+     "name": "1 месяц",
+     "price": 145,
+     "description": "Быстрый и стабильный VPN в Финляндии.",
+     "duration": "1 месяц",
+     "link": "https://t.me/vpn_gin_bot?start=HM_a_fl_1m",
+     "access": [
+      "tiktok",
+      "youtube",
+      "instagram"
+     ]
+    }
+   ]
+  },
   {
    "name": "🇷🇺 Доступ к сервисам РФ за границей 🇷🇺",
    "id": "ru",
