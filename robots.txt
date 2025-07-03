@@ -1,7 +1,9 @@
+# *
 User-agent: *
-Disallow: /payments/
 Allow: /
 
-Host: vpn-gin.com
+# Host
+Host: https://vpn-gin.com
 
+# Sitemaps
 Sitemap: https://vpn-gin.com/sitemap.xml
