@@ -253,6 +253,82 @@
    ]
   },
   {
+   "name": "🇸🇰Словакия",
+   "id": "svk",
+   "tariffs": [
+    {
+     "name": "1 месяц",
+     "price": 145,
+     "description": "Быстрый и стабильный VPN в Словакии.",
+     "duration": "1 месяц",
+     "slug": "HM_a_de_1m",
+     "link": "https://t.me/vpn_gin_bot?start=HM_a_sk_1m",
+     "access": [
+      "tiktok",
+      "youtube",
+      "instagram"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "🇬🇧Великобритания",
+   "id": "de",
+   "tariffs": [
+    {
+     "name": "1 месяц",
+     "price": 145,
+     "description": "Быстрый и стабильный VPN в Великобритании.",
+     "duration": "1 месяц",
+     "slug": "HM_a_de_1m",
+     "link": "https://t.me/vpn_gin_bot?start=HM_a_uk_1m",
+     "access": [
+      "tiktok",
+      "youtube",
+      "instagram"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "🇧🇪Бельгия",
+   "id": "de",
+   "tariffs": [
+    {
+     "name": "1 месяц",
+     "price": 145,
+     "description": "Быстрый и стабильный VPN в Бельгии.",
+     "duration": "1 месяц",
+     "slug": "HM_a_de_1m",
+     "link": "https://t.me/vpn_gin_bot?start=HM_a_be_1m",
+     "access": [
+      "tiktok",
+      "youtube",
+      "instagram"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "🇺🇿Узбекистан",
+   "id": "de",
+   "tariffs": [
+    {
+     "name": "1 месяц",
+     "price": 145,
+     "description": "Быстрый и стабильный VPN в Узбекистане.",
+     "duration": "1 месяц",
+     "slug": "HM_a_de_1m",
+     "link": "https://t.me/vpn_gin_bot?start=HM_a_uz_1m",
+     "access": [
+      "tiktok",
+      "youtube",
+      "instagram"
+     ]
+    }
+   ]
+  },
+  {
    "name": "🇰🇿Казахстан",
    "id": "kz",
    "tariffs": [
